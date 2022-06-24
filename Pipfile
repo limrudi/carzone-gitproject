@@ -9,6 +9,10 @@ psycopg2 = "==2.8.6"
 pillow = "*"
 django-ckeditor = "*"
 django-multiselectfield = "*"
+django-allauth = "*"
+gitpython = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
