@@ -26,7 +26,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['radiant-plains-50049.herokuapp.com', 'childactually.com']
+ALLOWED_HOSTS = ['radiant-plains-50049.herokuapp.com', 'childactually.com', 'www.childactually.com']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
